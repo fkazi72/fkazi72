@@ -49,7 +49,7 @@ Hi there! I'm Faiz – a passionate web developer and creative problem solver. I
 
 - 🔗 [LinkedIn](https://linkedin.com/in/faizkazioies)
 - 🌐 [Website/Portfolio](https://your-website.com)
-- 📧 Email: your.email@example.com
+- 📧 Email: faizkazi12326@gmail.com
 
 ---
 
