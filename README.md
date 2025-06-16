@@ -48,7 +48,7 @@ Hi there! I'm Faiz – a passionate web developer and creative problem solver. I
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/faizkazioies)
-- 🌐 [Website/Portfolio](https://your-website.com)
+- 🌐 [Website/Portfolio](https://faiz-protfolio.vercel.app)
 - 📧 Email: faizkazi12326@gmail.com
 
 ---
