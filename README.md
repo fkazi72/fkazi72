@@ -1,10 +1,10 @@
-# 💻 Faiz Kazi | Web Developer & Tech Enthusiast
+# Faiz Kazi | Web Developer & Tech Enthusiast
 
 Hi there! I'm Faiz – a passionate web developer and creative problem solver. I love building full-stack applications, exploring new technologies, and sharing what I learn. My focus is on delivering meaningful digital experiences.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🌐 Full Stack Developer | MERN & Flutter enthusiast
 - 🛠️ Building web apps, mobile apps, and custom software solutions
@@ -15,7 +15,7 @@ Hi there! I'm Faiz – a passionate web developer and creative problem solver. I
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages & Frameworks:**
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
