@@ -41,16 +41,16 @@ Hi there! I'm Faiz – a passionate web developer and creative problem solver. I
 
 ## 📈 GitHub Stats
 
-![Faiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizkazi&show_icons=true&theme=radical)
+![Faiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fkazi72&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/faizkazioies)
-- 🌐 [Website/Portfolio](https://faiz-portfolio-main.vercel.app/)
+- 🌐 [Website/Portfolio](https://faizkazi.is-a.dev)
 - 📧 Email: faizkazi12326@gmail.com
 
 ---
 
-> “Code is not just syntax — it’s a form of art.” 🎨
+> “Code is not just syntax — it’s a form of art.” 
